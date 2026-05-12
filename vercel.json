@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://video01.vpn1p.vpnssh.dpdns.org/$1"
+      "destination": "http://157.254.54.108"
     }
   ]
 }
