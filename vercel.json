@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://cdn.hmtutors.xyz"
+      "destination": "http://cdn.hmtutors.xyz/$1"
     }
   ]
 }
